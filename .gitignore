@@ -1,0 +1,15 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Compilados de Java
+*.class
+
+# Si en algún momento usas Maven/Gradle
+target/
+build/
+
+# Sistema
+.DS_Store
