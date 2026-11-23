@@ -13,3 +13,20 @@ build/
 
 # Sistema
 .DS_Store
+
+# Workspace de Eclipse
+.metadata/
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+captures/
+*.apk
+*.aab
+
+# Ficheros temporales y del sistema
+*~
+.~lock.*#
+Thumbs.db
